@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ProfileApp</string>
+    <string name="breve_descri_o_do_usu_rio">Breve descrição do usuário.</string>
+    <string name="emprego_atual_desenvolvedor_android">Emprego Atual: Desenvolvedor Android</string>
+    <string name="experi_ncias_anteriores">Experiências Anteriores</string>
+    <string name="foto_de_perfil">Foto de perfil</string>
+    <string name="nome_do_usu_rio">Nome do Usuário</string>
+    <style name="Base.Theme.ProfileApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ProfileApp" parent="Base.Theme.ProfileApp"/>
+</resources>

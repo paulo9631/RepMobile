@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+>>>>>>> 77851dc (CounterApp)
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+>>>>>>> e709e55 (Menu)
+</resources>

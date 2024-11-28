@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<resources>
+    <string name="app_name">Menu3Pontinhos</string>
+=======
+<resources>
+    <string name="app_name">Menu3Pontinhos</string>
+>>>>>>> 77851dc (CounterApp)
+=======
+<resources>
+    <string name="app_name">Menu3Pontinhos</string>
+>>>>>>> e709e55 (Menu)
+</resources>
