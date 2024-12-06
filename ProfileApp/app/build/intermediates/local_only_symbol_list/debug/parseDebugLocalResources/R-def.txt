@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ed3f9dc686d95512c17c4e275169304b
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id currentJobText
+id descriptionText
+id experienceLayout
+id main
+id nameText
+id profileImage
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string breve_descri_o_do_usu_rio
+string emprego_atual_desenvolvedor_android
+string experi_ncias_anteriores
+string foto_de_perfil
+string nome_do_usu_rio
+style Base.Theme.ProfileApp
+style Theme.ProfileApp
+xml backup_rules
+xml data_extraction_rules
